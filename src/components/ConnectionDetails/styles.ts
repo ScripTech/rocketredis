@@ -12,8 +12,7 @@ export const Container = styled(ResizableBox).attrs({
 
 export const TitleHeader = styled.div`
   font-size: 10px;
-  opacity: .2
-
+  opacity: 0.2;
 `
 
 export const ContentContainer = styled.div`
